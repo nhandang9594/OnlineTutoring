@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "f4AOV1AJzU1DqBFoLwdaS5yt+61T5ee3990MPyFRgIWROZMMQ+v4ncF1YD0unOQZCIIDMI5okzEl18ngtrkDJA==",
+  "dgSpecHash": "1PV4Dw9g/vP5daX4pHNjtUcLl7EA+/psYhKnZ+ludf3HikyH+L0fXIrgzUtbj8MFHqN5rkUVgLkOsg+qErnxqA==",
   "success": true,
   "projectFilePath": "C:\\Users\\tamnh\\source\\repos\\OnlineTutoringApplication\\OnlineTutoring\\OnlineTutoring\\OnlineTutoring.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tamnh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\tamnh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tamnh\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
     "C:\\Users\\tamnh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\tamnh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\tamnh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
