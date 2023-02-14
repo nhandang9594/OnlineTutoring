@@ -8,5 +8,7 @@ namespace OnlineTutoring.Models.Response
 {
     public class TutorsResponse
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
